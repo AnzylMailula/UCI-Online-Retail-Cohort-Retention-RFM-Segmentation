@@ -4,7 +4,8 @@ Customer retention analysis on a real UK online gift retailer's transaction data
 What's in this repo
 Cohort Analysis.pdf: Decision, North Star Metrics, Recommendations, Financial Impact, and Caveats (non-technical, decision-focused)
 Cohort Methodology And Cleaning Notes .pdf: Full evidence tables, methodology, formulas, merges, and relationships (for anyone verifying the work)
-dashboard.png : <img width="703" height="380" alt="image" src="https://github.com/user-attachments/assets/2f33c6cd-06a7-49ad-b630-2a42e2b0b1eb" />
+
+ <img width="703" height="380" alt="image" src="https://github.com/user-attachments/assets/2f33c6cd-06a7-49ad-b630-2a42e2b0b1eb" />
 
 
 UCI Machine Learning Repository — Online Retail II. Real transactions from a UK-based online gift and homeware retailer, December 2009–December 2011, ~1 million rows across two year-sheets. Not included in this repo due to size  download directly from the source link above.
