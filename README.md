@@ -8,7 +8,7 @@ Cohort Methodology And Cleaning Notes .pdf: Full evidence tables, methodology, f
  <img width="703" height="380" alt="image" src="https://github.com/user-attachments/assets/2f33c6cd-06a7-49ad-b630-2a42e2b0b1eb" />
 
 
-UCI Machine Learning Repository — Online Retail II. Real transactions from a UK-based online gift and homeware retailer, December 2009–December 2011, ~1 million rows across two year-sheets. Not included in this repo due to size  download directly from the source link above.
+UCI Machine Learning Repository Online Retail II. Real transactions from a UK based online gift and homeware retailer, December 2009–December 2011, ~1 million rows across two year-sheets. Not included in this repo due to size download directly from the source link above.
 
 Tools
 
